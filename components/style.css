@@ -1,0 +1,12 @@
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/dropdown.css");
+@import url("components/card.css");
+@import url("components/badge.css");
+@import url("components/banner.css");
+@import url("components/tabs.css");
+@import url("components/list.css");
+
+body {
+  padding-bottom: 200px;
+}

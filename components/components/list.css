@@ -1,0 +1,41 @@
+.list {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.list:hover {
+  background: #E6E6E6;
+}
+
+.list-description {
+  flex: 1 0 auto;
+  padding: 0 10px;
+}
+
+.list-description h3 {
+  margin-top: 0;
+}
+
+.list-description p {
+  margin-bottom: 0;
+}
+
+.list-upvote {
+  text-align: center;
+  padding: 10px;
+}
+
+.list-inline {
+  display: inline;
+}
+
+.list-icons a {
+  font-size: 20px;
+  color: #CCCCCC;
+}
+
+.list-image {
+  border-radius: 3%;
+}
